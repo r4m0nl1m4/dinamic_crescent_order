@@ -14,3 +14,5 @@ No terminal, chame o makefile.
 Para excução:
 
   ./dinamic_crescent_order <número_inteiro>
+
+*runtime with Ubuntu 'time' command 
